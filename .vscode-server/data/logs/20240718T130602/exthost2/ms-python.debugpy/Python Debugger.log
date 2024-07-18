@@ -1,0 +1,11 @@
+2024-07-18 13:06:51.606 [info] Name: Python Debugger
+2024-07-18 13:06:51.607 [info] Module: debugpy
+2024-07-18 13:21:01.342 [info] DAP Server launched with command: /home/jaram/myenv/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter
+2024-07-18 13:24:22.828 [info] DAP Server launched with command: /home/jaram/myenv/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter
+2024-07-18 13:26:08.314 [info] DAP Server launched with command: /home/jaram/myenv/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter
+2024-07-18 13:34:26.828 [info] DAP Server launched with command: /home/jaram/cv_env/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter
+2024-07-18 13:35:06.547 [info] DAP Server launched with command: /home/jaram/cv_env/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter
+2024-07-18 13:36:04.739 [info] DAP Server launched with command: /home/jaram/cv_env/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter
+2024-07-18 13:39:05.761 [info] DAP Server launched with command: /home/jaram/cv_env/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter
+2024-07-18 13:54:35.934 [info] DAP Server launched with command: /home/jaram/cv_env/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter
+2024-07-18 13:56:52.605 [info] DAP Server launched with command: /home/jaram/cv_env/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter

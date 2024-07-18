@@ -1,0 +1,55 @@
+2024-07-18 12:44:29.230 [info] (Client) Pylance async client (2024.7.1) started with python extension (2024.10.0)
+2024-07-18 12:44:30.722 [info] [Info  - 12:44:30] (1933) Pylance language server 2024.7.1 (pyright version 1.1.369, commit 1168be71) starting
+2024-07-18 12:44:30.723 [info] [Info  - 12:44:30] (1933) Server root directory: file:///home/jaram/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-18 12:44:30.724 [info] [Info  - 12:44:30] (1933) Starting service instance "jaram"
+2024-07-18 12:44:30.962 [info] [Info  - 12:44:30] (1933) Setting environmentName for service "jaram": "/home/jaram/myenv/bin/python"
+2024-07-18 12:44:30.964 [info] [Info  - 12:44:30] (1933) No include entries specified; assuming /home/jaram
+2024-07-18 12:44:30.969 [info] [Info  - 12:44:30] (1933) Auto-excluding **/node_modules
+2024-07-18 12:44:30.970 [info] [Info  - 12:44:30] (1933) Auto-excluding **/__pycache__
+2024-07-18 12:44:30.971 [info] [Info  - 12:44:30] (1933) Auto-excluding **/.*
+2024-07-18 12:44:31.236 [info] [Info  - 12:44:31] (1933) Auto-excluding /home/jaram/cv_env
+2024-07-18 12:44:31.238 [info] [Info  - 12:44:31] (1933) Auto-excluding /home/jaram/iot
+2024-07-18 12:44:31.290 [info] [Info  - 12:44:31] (1933) Found 9 source files
+2024-07-18 12:44:32.220 [info] [Info  - 12:44:32] (1933) Background analysis(1) root directory: file:///home/jaram/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-18 12:44:32.230 [info] [Info  - 12:44:32] (1933) Background analysis(1) started
+2024-07-18 12:47:52.895 [info] [Info  - 12:47:52] (1933) Indexer background runner(2) root directory: file:///home/jaram/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-18 12:47:52.896 [info] [Info  - 12:47:52] (1933) Indexing(2) started
+2024-07-18 12:47:54.727 [info] [Info  - 12:47:54] (1933) [BG(1)] Long operation: analyzing: file:///home/jaram/projects/trial_b.py (2672ms)
+2024-07-18 12:47:55.552 [info] [Info  - 12:47:55] (1933) [IDX(2)] Long operation: scan packages file:///home/jaram (2352ms)
+2024-07-18 12:47:55.554 [info] [Info  - 12:47:55] (1933) scanned(2) 70 files over 1 exec env
+2024-07-18 12:47:56.601 [info] [Info  - 12:47:56] (1933) indexed(2) 53 files over 1 exec env
+2024-07-18 12:47:56.735 [info] [Info  - 12:47:56] (1933) Indexing finished(2).
+2024-07-18 12:49:01.705 [info] [Info  - 12:49:01] (1933) Setting pythonPath for service "jaram": "/home/jaram/.venv/bin/python"
+2024-07-18 12:49:01.706 [info] [Info  - 12:49:01] (1933) Setting environmentName for service "jaram": "3.11.2 (.venv venv)"
+2024-07-18 12:49:01.711 [info] [Info  - 12:49:01] (1933) No include entries specified; assuming /home/jaram
+2024-07-18 12:49:01.712 [info] [Info  - 12:49:01] (1933) Auto-excluding **/node_modules
+2024-07-18 12:49:01.718 [info] [Info  - 12:49:01] (1933) Auto-excluding **/__pycache__
+2024-07-18 12:49:01.719 [info] [Info  - 12:49:01] (1933) Auto-excluding **/.*
+2024-07-18 12:49:01.883 [info] [Info  - 12:49:01] (1933) Assuming Python version 3.11.2.final.0
+2024-07-18 12:49:02.155 [info] [Info  - 12:49:02] (1933) Auto-excluding /home/jaram/cv_env
+2024-07-18 12:49:02.155 [info] [Info  - 12:49:02] (1933) Auto-excluding /home/jaram/iot
+2024-07-18 12:49:02.178 [info] [Info  - 12:49:02] (1933) Found 9 source files
+2024-07-18 12:49:04.545 [info] [Info  - 12:49:04] (1933) Indexer background runner(3) root directory: file:///home/jaram/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-18 12:49:04.547 [info] [Info  - 12:49:04] (1933) Indexing(3) started
+2024-07-18 12:49:04.734 [info] [Info  - 12:49:04] (1933) [BG(1)] Long operation: analyzing: file:///home/jaram/projects/trial_b.py (2248ms)
+2024-07-18 12:49:06.575 [info] [Info  - 12:49:06] (1933) scanned(3) 14 files over 1 exec env
+2024-07-18 12:49:08.201 [info] [Info  - 12:49:08] (1933) indexed(3) 5 files over 1 exec env
+2024-07-18 12:49:08.277 [info] [Info  - 12:49:08] (1933) Indexing finished(3).
+2024-07-18 12:51:16.510 [info] [Info  - 12:51:16] (1933) Setting pythonPath for service "jaram": "/home/jaram/myenv/bin/python"
+2024-07-18 12:51:16.511 [info] [Info  - 12:51:16] (1933) Setting environmentName for service "jaram": "3.11.2 (myenv venv)"
+2024-07-18 12:51:16.511 [info] [Info  - 12:51:16] (1933) No include entries specified; assuming /home/jaram
+2024-07-18 12:51:16.513 [info] [Info  - 12:51:16] (1933) Auto-excluding **/node_modules
+2024-07-18 12:51:16.515 [info] [Info  - 12:51:16] (1933) Auto-excluding **/__pycache__
+2024-07-18 12:51:16.517 [info] [Info  - 12:51:16] (1933) Auto-excluding **/.*
+2024-07-18 12:51:16.630 [info] [Info  - 12:51:16] (1933) Assuming Python version 3.11.2.final.0
+2024-07-18 12:51:16.854 [info] [Info  - 12:51:16] (1933) Auto-excluding /home/jaram/cv_env
+2024-07-18 12:51:16.854 [info] [Info  - 12:51:16] (1933) Auto-excluding /home/jaram/iot
+2024-07-18 12:51:16.857 [info] [Info  - 12:51:16] (1933) Auto-excluding /home/jaram/myenv
+2024-07-18 12:51:16.874 [info] [Info  - 12:51:16] (1933) Found 9 source files
+2024-07-18 12:51:19.199 [info] [Info  - 12:51:19] (1933) [BG(1)] Long operation: analyzing: file:///home/jaram/projects/trial_b.py (2120ms)
+2024-07-18 12:51:19.455 [info] [Info  - 12:51:19] (1933) Indexer background runner(4) root directory: file:///home/jaram/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-18 12:51:19.457 [info] [Info  - 12:51:19] (1933) Indexing(4) started
+2024-07-18 12:51:22.384 [info] [Info  - 12:51:22] (1933) [IDX(4)] Long operation: scan packages file:///home/jaram (2174ms)
+2024-07-18 12:51:22.385 [info] [Info  - 12:51:22] (1933) scanned(4) 13 files over 1 exec env
+2024-07-18 12:51:23.394 [info] [Info  - 12:51:23] (1933) indexed(4) 4 files over 1 exec env
+2024-07-18 12:51:23.472 [info] [Info  - 12:51:23] (1933) Indexing finished(4).

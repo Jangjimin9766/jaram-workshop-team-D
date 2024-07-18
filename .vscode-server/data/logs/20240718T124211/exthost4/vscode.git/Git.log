@@ -1,0 +1,4 @@
+2024-07-18 12:44:24.840 [info] 로그 수준: Info
+2024-07-18 12:44:24.841 [info] "git"에서 찾은 git 유효성을 검사하는 중
+2024-07-18 12:44:24.841 [warning] Unable to find git. Error: spawn git ENOENT
+2024-07-18 12:44:24.841 [warning] Git installation not found.

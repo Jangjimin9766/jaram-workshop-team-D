@@ -1,0 +1,17 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.colorTheme": "Atom One Dark",
+    "security.workspace.trust.untrustedFiles": "open",
+    "cmake.configureOnOpen": true,
+    "debug.onTaskErrors": "debugAnyway",
+    "editor.fontFamily": "Consolas, 'Courier New', 'Malgun Gothic',  monospace",
+    "window.zoomLevel": -1,
+    "editor.detectIndentation": false,
+    "redhat.telemetry.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "remote.SSH.remotePlatform": {
+        "192.168.29.111": "linux"
+    }
+}

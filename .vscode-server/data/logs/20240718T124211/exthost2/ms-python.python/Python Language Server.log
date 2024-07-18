@@ -1,0 +1,37 @@
+2024-07-18 12:43:42.357 [info] (Client) Pylance async client (2024.7.1) started with python extension (2024.10.0)
+2024-07-18 12:43:44.070 [info] [Info  - 12:43:43] (1291) Server root directory: file:///home/jaram/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-18 12:43:44.073 [info] [Info  - 12:43:44] (1291) Experimental Pylance language server 2024.7.1 (pyright version 1.1.369, commit 1168be71) starting
+2024-07-18 12:43:44.073 [info] [Info  - 12:43:44] (1291) Starting service instance "jaram"
+2024-07-18 12:43:44.269 [info] [Info  - 12:43:44] (1291) Setting pythonPath for service "jaram": "/home/jaram/cv_env/bin/python"
+2024-07-18 12:43:44.270 [info] [Info  - 12:43:44] (1291) Setting environmentName for service "jaram": "3.11.2 (cv_env venv)"
+2024-07-18 12:43:44.272 [info] [Info  - 12:43:44] (1291) No include entries specified; assuming /home/jaram
+2024-07-18 12:43:44.276 [info] [Info  - 12:43:44] (1291) Auto-excluding **/node_modules
+2024-07-18 12:43:44.277 [info] [Info  - 12:43:44] (1291) Auto-excluding **/__pycache__
+2024-07-18 12:43:44.279 [info] [Info  - 12:43:44] (1291) Auto-excluding **/.*
+2024-07-18 12:43:44.369 [info] [Info  - 12:43:44] (1291) Assuming Python version 3.11.2.final.0
+2024-07-18 12:43:44.652 [info] [Info  - 12:43:44] (1291) Auto-excluding /home/jaram/cv_env
+2024-07-18 12:43:44.655 [info] [Info  - 12:43:44] (1291) Auto-excluding /home/jaram/iot
+2024-07-18 12:43:44.697 [info] [Info  - 12:43:44] (1291) Found 9 source files
+2024-07-18 12:43:45.467 [info] [Info  - 12:43:45] (1291) Background analysis(1) root directory: file:///home/jaram/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-18 12:43:45.476 [info] [Info  - 12:43:45] (1291) Background analysis(1) started
+2024-07-18 12:43:50.958 [info] [Info  - 12:43:50] (1291) Indexer background runner(2) root directory: file:///home/jaram/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-18 12:43:50.959 [info] [Info  - 12:43:50] (1291) Indexing(2) started
+2024-07-18 12:43:53.486 [info] [Info  - 12:43:53] (1291) [IDX(2)] Long operation: scan packages file:///home/jaram (2128ms)
+2024-07-18 12:43:53.487 [info] [Info  - 12:43:53] (1291) scanned(2) 41 files over 1 exec env
+2024-07-18 12:44:01.390 [info] [Info  - 12:44:01] (1291) [IDX(2)] Long operation: indexing: file:///home/jaram/cv_env/lib/python3.11/site-packages/numpy/__init__.pyi (2185ms)
+2024-07-18 12:44:01.438 [info] [Info  - 12:44:01] (1291) [BG(1)] Long operation: checking: file:///home/jaram/projects/trial_b.py (5455ms)
+2024-07-18 12:44:01.438 [info] [Info  - 12:44:01] (1291) [BG(1)] Long operation: analyzing: file:///home/jaram/projects/trial_b.py (5455ms)
+2024-07-18 12:44:01.620 [info] [Info  - 12:44:01] (1291) [IDX(2)] Long operation: index execution environment file:///home/jaram (7243ms)
+2024-07-18 12:44:01.689 [info] [Info  - 12:44:01] (1291) [IDX(2)] Long operation: index packages file:///home/jaram (7392ms)
+2024-07-18 12:44:01.690 [info] [Info  - 12:44:01] (1291) indexed(2) 32 files over 1 exec env
+2024-07-18 12:44:01.990 [info] [Info  - 12:44:01] (1291) Indexing finished(2).
+2024-07-18 12:44:54.476 [info] [Info  - 12:44:54] (1291) Auto-excluding /home/jaram/cv_env
+2024-07-18 12:44:54.477 [info] [Info  - 12:44:54] (1291) Auto-excluding /home/jaram/iot
+2024-07-18 12:44:54.495 [info] [Info  - 12:44:54] (1291) Found 9 source files
+2024-07-18 12:45:01.126 [info] [Info  - 12:45:01] (1291) Indexer background runner(3) root directory: file:///home/jaram/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (refresh)
+2024-07-18 12:45:01.128 [info] [Info  - 12:45:01] (1291) Indexing(3) started
+2024-07-18 12:45:02.855 [info] [Info  - 12:45:02] (1291) scanned(3) 42 files over 1 exec env
+2024-07-18 12:45:03.755 [info] [Info  - 12:45:03] (1291) indexed(3) 33 files over 1 exec env
+2024-07-18 12:45:03.947 [info] [Info  - 12:45:03] (1291) Indexing finished(3).
+2024-07-18 12:51:31.908 [info] [Info  - 12:51:31] (1291) [BG(1)] Long operation: checking: file:///home/jaram/app.py (2124ms)
+2024-07-18 12:51:31.911 [info] [Info  - 12:51:31] (1291) [BG(1)] Long operation: analyzing: file:///home/jaram/app.py (2144ms)

@@ -1,0 +1,50 @@
+2024-07-17 15:25:00.775 [info] Experiment 'pythonaacf' is active
+2024-07-17 15:25:00.775 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-17 15:25:00.775 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-17 15:25:00.775 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-17 15:25:00.775 [info] Experiment 'pythonTestAdapter' is active
+2024-07-17 15:25:00.775 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/home/jaram/.pixi/envs'
+	at Object.readdirSync (node:fs:1515:26)
+	at /home/jaram/.vscode-server/extensions/ms-python.python-2024.10.0-linux-arm64/out/client/extension.js:2:574598
+	at /home/jaram/.vscode-server/extensions/ms-python.python-2024.10.0-linux-arm64/out/client/extension.js:2:574789
+	at Array.map (<anonymous>)
+	at d.initWatchers (/home/jaram/.vscode-server/extensions/ms-python.python-2024.10.0-linux-arm64/out/client/extension.js:2:574507)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async d.ensureWatchersReady (/home/jaram/.vscode-server/extensions/ms-python.python-2024.10.0-linux-arm64/out/client/extension.js:2:536827)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/jaram/.pixi/envs'
+}
+2024-07-17 15:25:00.775 [error] Dir "/home/jaram/.pixi/envs" is not watchable (directory does not exist)
+2024-07-17 15:25:00.929 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/jaram
+2024-07-17 15:25:02.353 [info] Python interpreter path: /bin/python
+2024-07-17 15:25:02.996 [info] > pyenv which python
+2024-07-17 15:25:02.996 [info] cwd: .
+2024-07-17 15:25:04.005 [info] > pixi --version
+2024-07-17 15:25:04.008 [error] [Error: spawn pixi ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-07-17 15:25:04.009 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-07-17 15:25:06.989 [info] Starting Pylance language server.
+2024-07-17 15:28:41.763 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:36:11.109 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:36:35.528 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:36:41.925 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:37:02.211 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:37:07.470 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:38:11.685 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:38:12.292 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:38:15.901 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:38:16.163 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:38:26.686 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:38:26.999 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:38:34.473 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py
+2024-07-17 15:38:34.802 [info] Discover tests for workspace name: jaram - uri: /home/jaram/testjimin/camera.py

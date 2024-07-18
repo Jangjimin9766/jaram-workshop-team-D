@@ -1,0 +1,21 @@
+2024-07-17 17:00:01.748 [info] Starting Python Locator /home/jaram/.vscode-server/extensions/ms-python.python-2024.10.0-linux-arm64/python-env-tools/bin/pet server
+2024-07-17 17:00:01.748 [info] Started Refreshing Environments
+2024-07-17 17:00:03.675 [info] Discovered env: /home/jaram/myenv/bin/python
+2024-07-17 17:00:04.080 [info] Discovered env: /home/jaram/iot/bin/python
+2024-07-17 17:00:04.105 [info] Discovered env: /home/jaram/.venv/bin/python
+2024-07-17 17:00:04.149 [info] Discovered env: /bin/python
+2024-07-17 17:00:04.185 [info] Discovered env: /usr/bin/python
+2024-07-17 17:00:04.193 [info] Locator Conda took 15.293676ms
+2024-07-17 17:00:04.194 [info] Locator Homebrew took 94.196µs
+2024-07-17 17:00:04.194 [info] Locator LinuxGlobalPython took 497.128464ms
+2024-07-17 17:00:04.194 [info] Locator PipEnv took 333ns
+2024-07-17 17:00:04.194 [info] Locator Poetry took 163.264µs
+2024-07-17 17:00:04.194 [info] Locator PyEnv took 2.349456ms
+2024-07-17 17:00:04.194 [info] Locator Venv took 315ns
+2024-07-17 17:00:04.195 [info] Locator VirtualEnv took 1.444µs
+2024-07-17 17:00:04.195 [info] Locator VirtualEnvWrapper took 648ns
+2024-07-17 17:00:04.195 [info] Environments found using locators in 500.353609ms
+2024-07-17 17:00:04.195 [info] Environments in PATH found in 899.35254ms
+2024-07-17 17:00:04.195 [info] Environments in global virtual env paths found in 102.01µs
+2024-07-17 17:00:04.196 [info] Environments in custom search paths found in 244.075643ms
+2024-07-17 17:00:04.197 [info] Refresh completed in 899ms

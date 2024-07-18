@@ -1,0 +1,5 @@
+Listening on 127.0.0.1:37859
+[2024-07-18 14:16:07] info Disposed of connection to running server.
+looking for token e2288944-ec6e-4a51-9ede-6a80f00ee98c, got Some("e2288944-ec6e-4a51-9ede-6a80f00ee98c")
+[2024-07-18 14:16:07] info Checking /home/jaram/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/log.txt and /home/jaram/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/pid.txt for a running server...
+[2024-07-18 14:16:07] info Found running server (pid=791)

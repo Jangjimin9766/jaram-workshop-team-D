@@ -1,4 +1,0 @@
-2024-07-17 15:59:39.589 [info] Name: Python Debugger
-2024-07-17 15:59:39.589 [info] Module: debugpy
-2024-07-17 15:59:45.515 [info] DAP Server launched with command: /home/jaram/myenv/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter
-2024-07-17 15:59:55.797 [info] DAP Server launched with command: /home/jaram/myenv/bin/python /home/jaram/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-arm64/bundled/libs/debugpy/adapter

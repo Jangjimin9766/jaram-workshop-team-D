@@ -1,7 +1,0 @@
-Listening on 127.0.0.1:42559
-[2024-07-17 13:29:49] info Disposed of connection to running server.
-looking for token ce088d32-e9d0-4f99-bfe1-beca79c21994, got Some("ce088d32-e9d0-4f99-bfe1-beca79c21994")
-[2024-07-17 13:29:50] info Checking /home/jaram/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/log.txt and /home/jaram/.vscode-server/cli/servers/Stable-5437499feb04f7a586f677b155b039bc2b3669eb/pid.txt for a running server...
-[2024-07-17 13:29:50] info Found running server (pid=858)
-[2024-07-17 14:33:03] warn error handling call: NoAttachedServerError(NoAttachedServerError)
-[2024-07-17 14:45:52] info Disposed of connection to running server.

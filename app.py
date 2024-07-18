@@ -1,4 +1,3 @@
-# app.py
 from flask import Flask, render_template, Response, jsonify
 import cv2
 import trial_b  # Ensure trial_b.py is in the same directory as app.py
@@ -6,8 +5,12 @@ import trial_b  # Ensure trial_b.py is in the same directory as app.py
 app = Flask(__name__)
 
 @app.route('/')
-def index():
-    return render_template('index.html')
+def main_home():
+    return render_template('main_home.html')
+
+@app.route('/camera')
+def camera():
+    return render_template('camera.html')
 
 @app.route('/video_feed')
 def video_feed():
@@ -35,4 +38,4 @@ def generate_frames():
 
 if __name__ == '__main__':
     trial_b.start_sensor()  # Start the sensor in a separate thread
-    app.run(host='0.0.0.0', port=5001, debug=True, use_reloader=False)  # Use port 5001
+    app.run(host='0.0.0.0', port=5002, debug=True, use_reloader=False)

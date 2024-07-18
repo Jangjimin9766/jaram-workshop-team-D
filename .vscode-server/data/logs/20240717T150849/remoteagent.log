@@ -1,8 +1,0 @@
-2024-07-17 15:09:36.077 [info] 
-
-
-
-
-2024-07-17 15:09:36.121 [info] Extension host agent started.
-2024-07-17 15:09:36.366 [error] [<unknown>][6ff83840][ManagementConnection] Unknown reconnection token (never seen).
-2024-07-17 15:09:36.390 [error] [<unknown>][94ac12de][ExtensionHostConnection] Unknown reconnection token (never seen).

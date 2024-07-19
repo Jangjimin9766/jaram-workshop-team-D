@@ -8,6 +8,7 @@
 </head>
 <body>
     <div class="container">
+        <h1 id="led-message" style="display: none;">택배 도착!!!</h1>
         <h1>택배 알리미 서비스</h1>
         <div class="buttons">
             <button onclick="location.href='{{ url_for('camera') }}'">Camera</button>
@@ -15,5 +16,22 @@
             <button onclick="location.href='{{ url_for('static', filename='login.html') }}'">Login</button>
         </div>
     </div>
+
+    <script>
+        function fetchLedStatus() {
+            fetch('/led_status')
+                .then(response => response.json())
+                .then(data => {
+                    const ledMessage = document.getElementById('led-message');
+                    if (data.on) {
+                        ledMessage.style.display = 'block';
+                    } else {
+                        ledMessage.style.display = 'none';
+                    }
+                });
+        }
+
+        setInterval(fetchLedStatus, 1000); // Fetch LED status every second
+    </script>
 </body>
 </html>
